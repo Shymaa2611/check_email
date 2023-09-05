@@ -1,0 +1,10 @@
+- numpy
+- pandas
+- TfidfVectorizer
+- LinearSVC
+- train_test_split
+- metrics
+- Pipeline
+- seaborn
+
+
